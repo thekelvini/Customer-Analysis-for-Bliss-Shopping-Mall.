@@ -82,7 +82,7 @@ From the dashboard above the revenue distribution between male and female custom
 - Generated revenue: $150,207,136.02
 From this chart, it’s clear that females generated significantly more revenue than males. This information can be crucial for understanding the customer base and can help in making data-driven decisions for future business strategies.
  
-From the dashboard above the number of customers in four different age groups: Elders, Seniors, Young Adults, and Adults. Here’s a breakdown of the data:
+From the dashboard above the number of customers in four different age groups: Elders, Seniors, Young Adults, and Adults  is as follows;
 - Elders: 53,275 customers (tall blue bar)
 - Seniors: 15,488 customers (shorter green bar)
 - Young Adults: 15,359 customers (shorter dark blue bar)
@@ -92,7 +92,7 @@ Key Insights:
 - The number of customers in the Seniors, Young Adults, and Adults groups are relatively similar, with only slight variations between them.
 This distribution suggests that the majority of customers are Elders. It might be beneficial to explore why this age group is the largest and consider tailoring your marketing strategies and services to better cater to their needs.
 
-From the dashboard above the revenue contributions from different age groups. Here's the detailed breakdown:
+From the dashboard above the revenue contributions from different age groups is as follows;
 - Elders: $135,373,070.43
 - Senior: $39,623,760.76
 - Adult: $38,390,691.71
@@ -102,7 +102,7 @@ Key Insights:
 - The contributions from Seniors, Adults, and Young Adults are relatively similar, with only slight variations between them.
 This distribution indicates that the Elders age group is not only the largest in terms of customer numbers but also the most significant in terms of revenue generation. This could be an opportunity to further tailor Bliss Shopping Mall's marketing and service offerings to meet the preferences and needs of this age group.
 
-From the dashboard above the number of visitors at various malls. Here's the detailed breakdown:
+From the dashboard above the number of visitors at various malls is as follows;
 - Mall of Istanbul: 19,943 visitors
 - Kanyon: 19,823 visitors
 - Metrocity: 15,011 visitors
@@ -121,11 +121,10 @@ Key Insights:
 This data can be valuable for understanding which malls are the most popular and potentially why they attract more visitors. It could also guide decisions related to retail space, advertising, and customer engagement efforts.
 
 ## 8.	KEY FINDINGS AND INSIGHTS
-### Customer Demographics:  The majority of customers are female (60%). Elders form the largest age group, and they contribute the highest revenue.
-### Revenue Insights: Elders generate more than half of the total revenue, making them a crucial demographic for the mall.
-### Mall Visits: The Mall of Istanbul and Kanyon are the most popular shopping destinations, indicating high foot traffic and customer preference.
-### Payment Preferences: A significant portion of transactions is conducted in cash, which might indicate a need for better card or digital payment options.
-
+Customer Demographics:  The majority of customers are female (60%). Elders form the largest age group, and they contribute the highest revenue.
+ Revenue Insights: Elders generate more than half of the total revenue, making them a crucial demographic for the mall.
+Mall Visits: The Mall of Istanbul and Kanyon are the most popular shopping destinations, indicating high foot traffic and customer preference.
+Payment Preferences: A significant portion of transactions is conducted in cash, which might indicate a need for better card or digital payment options.
 
 ## 9.	RECOMMENDATIONS 
 ### Targeted Marketing Strategies
