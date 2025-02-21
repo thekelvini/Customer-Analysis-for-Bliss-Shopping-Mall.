@@ -108,8 +108,7 @@ Key Insights:
 This distribution indicates that the Elders age group is not only the largest in terms of customer numbers but also the most significant in terms of revenue generation. This could be an opportunity to further tailor Bliss Shopping Mall's marketing and service offerings to meet the preferences and needs of this age group.
 
 
- 
-The bar chart shows the number of visitors at various malls. Here's the detailed breakdown:
+ The bar chart shows the number of visitors at various malls. Here's the detailed breakdown:
 •	Mall of Istanbul: 19,943 visitors
 •	Kanyon: 19,823 visitors
 •	Metrocity: 15,011 visitors
@@ -126,14 +125,14 @@ Key Insights:
 •	Emaar Square Mall has the least number of visitors among the listed malls.
 This data can be valuable for understanding which malls are the most popular and potentially why they attract more visitors. It could also guide decisions related to retail space, advertising, and customer engagement efforts.
 
-## 5.	KEY FINDINGS AND INSIGHTS
-Customer Demographics:  The majority of customers are female (60%). Elders form the largest age group, and they contribute the highest revenue.
-Revenue Insights: Elders generate more than half of the total revenue, making them a crucial demographic for the mall.
-Mall Visits: The Mall of Istanbul and Kanyon are the most popular shopping destinations, indicating high foot traffic and customer preference.
-Payment Preferences: A significant portion of transactions is conducted in cash, which might indicate a need for better card or digital payment options.
-Recommendation: Bliss Shopping Mall should tailor its marketing strategies to target key demographics, focus more on popular malls while improving on increasing traffic t, and consider enhancing payment methods for improved customer satisfaction.
+## 8.	KEY FINDINGS AND INSIGHTS
+### Customer Demographics:  The majority of customers are female (60%). Elders form the largest age group, and they contribute the highest revenue.
+### Revenue Insights: Elders generate more than half of the total revenue, making them a crucial demographic for the mall.
+### Mall Visits: The Mall of Istanbul and Kanyon are the most popular shopping destinations, indicating high foot traffic and customer preference.
+### Payment Preferences: A significant portion of transactions is conducted in cash, which might indicate a need for better card or digital payment options.
 
-## 6.	RECOMMENDATIONS 
+
+## 9.	RECOMMENDATIONS 
 ### Targeted Marketing Strategies
 - Since elders form the largest age group and generate the highest revenue, Bliss Shopping Mall should design age-appropriate promotions, loyalty programs, and discounts to encourage repeat visits.
 - As 60% of customers are female, marketing campaigns should be tailored towards products, services, and experiences that appeal to women.
