@@ -64,65 +64,60 @@ Before we start digging into all the details, it’s crucial to do exploratory d
 
 ### Key Performance Indicators (KPIs)
 KPIs were added to tell us how well Bliss Shopping Mall is doing. In our analysis of Bliss Shopping Mall performance based on key metrics:
-Total Customer: Bliss Shopping Mall serves a customer base of approximately 99,457 people.
-Revenue: The company has achieved a revenue of N 251,505,794,25.
-Total Orders: The total number of orders processed amounts to 28,000.
-Number of Malls: Orders were placed from 10 different malls.
+### Total Customer: Bliss Shopping Mall serves a customer base of approximately 99,457 people.
+### Revenue: The company has achieved a revenue of N 251,505,794,25.
+### Total Orders: The total number of orders processed amounts to 28,000.
+### Number of Malls: Orders were placed from 10 different malls.
 
-### Visualization:
-Customer Analysis Report
-The pie chart above shows the gender distribution among Bliss Shopping Customers. Here's a breakdown:
+###  Customer Analysis Report
+From the dashboard above the gender distribution among Bliss Shopping Customers is as follows;
 - Males: Represent 40% of the total customer base, with a count of 39,975.
 - Females: Represent 60% of the total customer base, with a count of 59,482.
 This information suggests that a majority of customers are female. This demographic insight could be valuable for tailoring marketing strategies, product development, and customer engagement efforts to better suit customer base.
  
-The pie chart shows the revenue distribution between male and female customers. Here’s the detailed breakdown:
-•	Males:
-o	Generated revenue: $101,298.65
-o	Represented by the green section of the pie chart
-•	Females:
-o	Generated revenue: $150,207,136.02
-o	Represented by the blue section of the pie chart
+From the dashboard above the revenue distribution between male and female customers is as follows;
+- Males:
+- Generated revenue: $101,298.65
+- Females:
+- Generated revenue: $150,207,136.02
 From this chart, it’s clear that females generated significantly more revenue than males. This information can be crucial for understanding the customer base and can help in making data-driven decisions for future business strategies.
  
-The bar chart displays the number of customers in four different age groups: Elders, Seniors, Young Adults, and Adults. Here’s a breakdown of the data:
-•	Elders: 53,275 customers (tall blue bar)
-•	Seniors: 15,488 customers (shorter green bar)
-•	Young Adults: 15,359 customers (shorter dark blue bar)
-•	Adults: 15,335 customers (shorter yellow bar)
+From the dashboard above the number of customers in four different age groups: Elders, Seniors, Young Adults, and Adults. Here’s a breakdown of the data:
+- Elders: 53,275 customers (tall blue bar)
+- Seniors: 15,488 customers (shorter green bar)
+- Young Adults: 15,359 customers (shorter dark blue bar)
+- Adults: 15,335 customers (shorter yellow bar)
 Key Insights:
-•	The Elders age group has the highest number of customers, significantly more than the other groups.
-•	The number of customers in the Seniors, Young Adults, and Adults groups are relatively similar, with only slight variations between them.
+- The Elders age group has the highest number of customers, significantly more than the other groups.
+- The number of customers in the Seniors, Young Adults, and Adults groups are relatively similar, with only slight variations between them.
 This distribution suggests that the majority of customers are Elders. It might be beneficial to explore why this age group is the largest and consider tailoring your marketing strategies and services to better cater to their needs.
 
-
- 
-The bar chart shows the revenue contributions from different age groups. Here's the detailed breakdown:
-•	Elders: $135,373,070.43
-•	Senior: $39,623,760.76
-•	Adult: $38,390,691.71
-•	Young Adult: $38,118,271.35
+From the dashboard above the revenue contributions from different age groups. Here's the detailed breakdown:
+- Elders: $135,373,070.43
+- Senior: $39,623,760.76
+- Adult: $38,390,691.71
+- Young Adult: $38,118,271.35
 Key Insights:
-•	The Elders age group has the highest revenue contribution, significantly more than the other age groups.
-•	The contributions from Seniors, Adults, and Young Adults are relatively similar, with only slight variations between them.
+- The Elders age group has the highest revenue contribution, significantly more than the other age groups.
+- The contributions from Seniors, Adults, and Young Adults are relatively similar, with only slight variations between them.
 This distribution indicates that the Elders age group is not only the largest in terms of customer numbers but also the most significant in terms of revenue generation. This could be an opportunity to further tailor Bliss Shopping Mall's marketing and service offerings to meet the preferences and needs of this age group.
 
+From the dashboard above the number of visitors at various malls. Here's the detailed breakdown:
+- Mall of Istanbul: 19,943 visitors
+- Kanyon: 19,823 visitors
+- Metrocity: 15,011 visitors
+- Metropol AVM: 10,161 visitors
+- Istinye Park: 9,781 visitors
+- Zorlu Center: 5,075 visitors
+- Cevahir AVM: 4,991 visitors
+- Forum Istanbul: 4,947 visitors
+- Viaport Outlet: 4,914 visitors
+- Emaar Square Mall: 4,811 visitors
 
- The bar chart shows the number of visitors at various malls. Here's the detailed breakdown:
-•	Mall of Istanbul: 19,943 visitors
-•	Kanyon: 19,823 visitors
-•	Metrocity: 15,011 visitors
-•	Metropol AVM: 10,161 visitors
-•	Istinye Park: 9,781 visitors
-•	Zorlu Center: 5,075 visitors
-•	Cevahir AVM: 4,991 visitors
-•	Forum Istanbul: 4,947 visitors
-•	Viaport Outlet: 4,914 visitors
-•	Emaar Square Mall: 4,811 visitors
 Key Insights:
-•	Mall of Istanbul and Kanyon are the most visited malls, with visitor numbers close to each other.
-•	There is a noticeable drop in the number of visitors after the top three malls (Mall of Istanbul, Kanyon, and Metrocity).
-•	Emaar Square Mall has the least number of visitors among the listed malls.
+- Mall of Istanbul and Kanyon are the most visited malls, with visitor numbers close to each other.
+- There is a noticeable drop in the number of visitors after the top three malls (Mall of Istanbul, Kanyon, and Metrocity).
+- Emaar Square Mall has the least number of visitors among the listed malls.
 This data can be valuable for understanding which malls are the most popular and potentially why they attract more visitors. It could also guide decisions related to retail space, advertising, and customer engagement efforts.
 
 ## 8.	KEY FINDINGS AND INSIGHTS
