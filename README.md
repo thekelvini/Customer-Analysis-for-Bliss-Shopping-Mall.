@@ -6,3 +6,4 @@ Comprehensive customer analysis: revenue, demographics, payment preferences, and
 By analyzing this data, I will help Bliss Shopping Mall visualize key metrics and enable strategic decisions for its board meeting. 
 Stakeholders: Board of Directors
 Project Timeline: One Week
+## Date used
