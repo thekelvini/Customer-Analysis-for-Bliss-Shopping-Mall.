@@ -7,4 +7,4 @@ By analyzing this data, I will help Bliss Shopping Mall visualize key metrics an
 Stakeholders: Board of Directors
 Project Timeline: One Week
 ## Date used
-- <a href-"https://github.com/thekelvini/Customer-Analysis-for-Bliss-Shopping-Mall./blob/main/Dataset_Shopping%20Mall.xlsx">Dataset Shopping Mall</a>
+- <a href-"https://github.com/thekelvini/Customer-Analysis-for-Bliss-Shopping-Mall./blob/main/Dataset_Shopping%20Mall.xlsx"> Dataset Shopping Mall</a>
