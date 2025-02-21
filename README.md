@@ -121,10 +121,10 @@ Key Insights:
 This data can be valuable for understanding which malls are the most popular and potentially why they attract more visitors. It could also guide decisions related to retail space, advertising, and customer engagement efforts.
 
 ## 8.	KEY FINDINGS AND INSIGHTS
-## Customer Demographics:  The majority of customers are female (60%). Elders form the largest age group, and they contribute the highest revenue.
-## Revenue Insights: Elders generate more than half of the total revenue, making them a crucial demographic for the mall.
-## Mall Visits: The Mall of Istanbul and Kanyon are the most popular shopping destinations, indicating high foot traffic and customer preference.
-## Payment Preferences: A significant portion of transactions is conducted in cash, which might indicate a need for better card or digital payment options.
+### Customer Demographics:  The majority of customers are female (60%). Elders form the largest age group, and they contribute the highest revenue.
+### Revenue Insights: Elders generate more than half of the total revenue, making them a crucial demographic for the mall.
+### Mall Visits: The Mall of Istanbul and Kanyon are the most popular shopping destinations, indicating high foot traffic and customer preference.
+### Payment Preferences: A significant portion of transactions is conducted in cash, which might indicate a need for better card or digital payment options.
 
 ## 9.	RECOMMENDATIONS 
 ### Targeted Marketing Strategies
