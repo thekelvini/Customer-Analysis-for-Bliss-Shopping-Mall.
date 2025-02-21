@@ -16,4 +16,19 @@ This project involves developing an interactive Excel dashboard to provide a com
 - Demographics – Understanding customer profiles based on age, gender, and other key characteristics.
 - Payment Preferences – Analyzing transaction data to determine preferred payment methods.
 - Mall Traffic Insights – Assessing peak shopping hours, foot traffic trends, and customer movement patterns.
+  
 The insights generated from this analysis will be instrumental in guiding strategic decision-making during the Bliss Shopping Mall board meeting. By leveraging this data, the management team can enhance marketing strategies, improve tenant selection, optimize mall layout, and implement customer-centric initiatives to drive sustainable growth.
+
+## Key Result
+Below are the Key Result Areas (KRA) the Board will focus on. The dashboard clearly and effectively answers these areas:
+Session A: These are to be displayed as a single virtual on your dashboard
+1.	**Customer Base Volume:** Quantify the aggregate count of unique customers captured within the dataset.
+2.	**Cumulative Revenue Generated: Compute the comprehensive sum of revenue accrued from all transactions.
+3.	**Total Units Purchased: Determine the consolidated volume of products ordered across all customer orders.
+Session B:
+1.	**Revenue Contribution by Age Demographic: Quantify the proportional revenue impact (%) of each defined age cohort relative to total revenue.
+2.	**Gender-Based Revenue Distribution: Analyze the percentage share of total revenue attributable to each gender (Female/Male).
+3.	**Gender-Specific Customer Segmentation: Calculate the total number of distinct customers categorized by gender.
+4.	**Prevalent Payment Method Identification: Determine the payment method with the highest frequency of usage.
+5.	**High-Traffic Mall Assessment: Identify the shopping mall with the greatest volume of customer visits.
+6.	**Age Cohort Payment Preferences: Evaluate the predominant payment method adopted by customers within each age category.
